@@ -4,6 +4,10 @@ A React and TypeScript application that allows users to search for GitHub reposi
 
 Built to demonstrate asynchronous data fetching, type-safe React development, request cancellation, and component-based frontend architecture.
 
+## Screenshot
+
+![Github Repository Explorer](github-repository-explorer.png)
+
 ## Features
 
 - **GitHub User Search:** Enter a GitHub username to retrieve their public repositories.
